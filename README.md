@@ -1,4 +1,4 @@
-# Welcome to my profile. My name is Emilio R. Conde Frers.
+# Welcome! My name is Emilio R. Conde Frers.
 
 # About me:
 <p align="center">I am a Full Stack Web Developer with MERN (MongodDB, Express, React and React/Redux, Node.js) skills. I can also use PostgreSQL and Typescript. My goal is to keep on improving on them, but learning if needed, I also love leanring new things!</p>
