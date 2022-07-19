@@ -8,19 +8,19 @@
 <p align="center" bgcolor="white" ><img height="160em" src="https://github-readme-stats.vercel.app/api?username=EmiCon97&show_icons=true&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" /></p>
 <p align="center" bgcolor="white" ><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiCon97&layout=compact&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" /></p>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmiCon97&theme=light" alt="EmiCon97" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmiCon97&theme=light" alt="EmiCon97" /></p>
 
 ## ✍🏻 Contact me:
 </br>
-<a href="mailto:derleuchtturm97@gmail.com" target="_blank">
-<p align="center" bgcolor="white" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></p>
+<p align="center" bgcolor="white" ><a href="mailto:derleuchtturm97@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
 <a href="https://www.linkedin.com/in/emilio-rodrigo-conde-frers-827016230/" target="_blank">
-<p align="center" bgcolor="white" ><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></p>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://wa.link/axr0dz" target="_blank"> 
-<p align="center" bgcolor="white" ><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png" alt="whatsapp" width="40" height="40"/></p>
- </a>
+<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png" alt="whatsapp" width="40" height="40"/>
+ </a></p>
 </br>
 
 
