@@ -26,7 +26,8 @@
 </br>
 
 ### Projects
+<p align="center">
 |      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
 |-------------|-------------------|---|---|
-|    PokeApp    | Single Page Application | <sup><kbd>***[Repo](https://github.com/Emicon97/PI-POKEMON)***</kbd></sup> | <sup><kbd>***[Link](https://pokeshowroom.vercel.app/)***</kbd></sup> |
-|    Mikasa Nueva    | Group project, a website for advertising properties. | <sup><kbd>***[Repo](https://github.com/Emicon97/Real-Estate-Backend)***</kbd></sup> | <sup><kbd>***[Link](https://mikasa-nueva.vercel.app/)***</kbd></sup> |
+|    Pokemon Showroom    | Single Page Application | <sup><kbd>***[Repo](https://github.com/Emicon97/PI-POKEMON)***</kbd></sup> | <sup><kbd>***[Link](https://pokeshowroom.vercel.app/)***</kbd></sup> |
+|    Mikasa Nueva    | Group project, a website for advertising properties. | <sup><kbd>***[Repo](https://github.com/Emicon97/Real-Estate-Backend)***</kbd></sup> | <sup><kbd>***[Link](https://mikasa-nueva.vercel.app/)***</kbd></sup> | </p>
